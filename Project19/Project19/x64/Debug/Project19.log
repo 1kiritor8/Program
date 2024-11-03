@@ -1,0 +1,4 @@
+﻿  test.c
+D:\programe\Project19\test.c(92,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+D:\programe\Project19\test.c(92,9): warning C4313: "printf": 格式字符串中的 "%p" 与类型为 "int" 的参数 1 冲突
+  Project19.vcxproj -> D:\programe\Project19\x64\Debug\Project19.exe
