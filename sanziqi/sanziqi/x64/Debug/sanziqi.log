@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+D:\编程程序\sanziqi\test.c(17,2): warning C4013: “InitBoard”未定义；假设外部返回 int
+  正在生成代码...
+  sanziqi.vcxproj -> D:\编程程序\sanziqi\x64\Debug\sanziqi.exe
