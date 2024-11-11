@@ -1,0 +1,4 @@
+﻿  test.c
+D:\programe\Project24\test.c(17,13): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\programe\Project24\test.c(22,13): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Project24.vcxproj -> D:\programe\Project24\x64\Debug\Project24.exe
