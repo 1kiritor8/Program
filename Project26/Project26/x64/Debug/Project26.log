@@ -1,0 +1,3 @@
+﻿  test.c
+D:\programe\Project26\test.c(65,4): warning C4133: “=”: 从“*”到“*”的类型不兼容
+  Project26.vcxproj -> D:\programe\Project26\x64\Debug\Project26.exe
