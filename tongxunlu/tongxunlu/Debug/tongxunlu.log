@@ -1,0 +1,6 @@
+﻿  contact.c
+  test.c
+  正在生成代码...
+D:\programe\tongxunlu\contact.c(42,3): warning C4098: “LoadContact”:“void”函数返回值
+D:\programe\tongxunlu\contact.c(274,3): warning C4098: “SaveContact”:“void”函数返回值
+  tongxunlu.vcxproj -> D:\programe\tongxunlu\Debug\tongxunlu.exe
