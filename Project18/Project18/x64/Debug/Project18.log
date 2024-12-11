@@ -1,3 +1,0 @@
-﻿  test.c
-D:\programe\Project18\test.c(48,16): warning C4133: “函数”: 从“int [10]”到“char *”的类型不兼容
-  Project18.vcxproj -> D:\programe\Project18\x64\Debug\Project18.exe

@@ -1,4 +1,0 @@
-﻿  test.c
-D:\programe\Project16\test.c(419,2): warning C4013: “gets”未定义；假设外部返回 int
-D:\programe\Project16\test.c(421,12): warning C4013: “strlen”未定义；假设外部返回 int
-  Project16.vcxproj -> D:\programe\Project16\x64\Debug\Project16.exe

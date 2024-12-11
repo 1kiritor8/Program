@@ -1,3 +1,0 @@
-﻿  test.c
-D:\programe\Project19\test.c(812,9): warning C4013: “strcmp”未定义；假设外部返回 int
-  Project19.vcxproj -> D:\programe\Project19\Debug\Project19.exe
