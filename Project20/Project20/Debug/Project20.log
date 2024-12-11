@@ -1,6 +1,0 @@
-﻿  test.c
-D:\programe\Project20\test.c(206,24): warning C4047: “函数”:“const char *”与“char **”的间接级别不同
-D:\programe\Project20\test.c(206,24): warning C4024: “strlen”: 形参和实参 1 的类型不同
-D:\programe\Project20\test.c(207,27): warning C4047: “函数”:“const char *”与“char **”的间接级别不同
-D:\programe\Project20\test.c(207,27): warning C4024: “strlen”: 形参和实参 1 的类型不同
-  Project20.vcxproj -> D:\programe\Project20\Debug\Project20.exe

@@ -1,3 +1,0 @@
-﻿  test.c
-D:\programe\Project29\test.c(8,1): warning C4172: 返回局部变量的地址或临时 : p
-  Project29.vcxproj -> D:\programe\Project29\x64\Debug\Project29.exe

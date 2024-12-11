@@ -1,3 +1,0 @@
-﻿  test.c
-D:\programe\Project34\test.c(237,9): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
-  Project34.vcxproj -> D:\programe\Project34\Debug\Project34.exe

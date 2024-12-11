@@ -1,3 +1,0 @@
-﻿  test.c
-D:\programe\Project23\test.c(144,2): warning C4013: “memset”未定义；假设外部返回 int
-  Project23.vcxproj -> D:\programe\Project23\Debug\Project23.exe

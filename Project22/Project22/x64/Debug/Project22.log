@@ -1,3 +1,0 @@
-﻿  test.c
-D:\programe\Project22\test.c(10,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  Project22.vcxproj -> D:\programe\Project22\x64\Debug\Project22.exe
