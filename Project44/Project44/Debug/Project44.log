@@ -1,4 +1,0 @@
-﻿  test.cpp
-D:\programe\Project44\test.cpp(9,13): warning C4305: “初始化”: 从“int”到“float”截断
-D:\programe\Project44\test.cpp(10,13): warning C4305: “初始化”: 从“double”到“float”截断
-  Project44.vcxproj -> D:\programe\Project44\Debug\Project44.exe
