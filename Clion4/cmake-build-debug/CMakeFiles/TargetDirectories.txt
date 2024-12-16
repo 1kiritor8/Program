@@ -1,0 +1,3 @@
+D:/programe/Code/Clion4/cmake-build-debug/CMakeFiles/Project4.dir
+D:/programe/Code/Clion4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programe/Code/Clion4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
