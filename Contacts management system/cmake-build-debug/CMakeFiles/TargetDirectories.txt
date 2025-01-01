@@ -1,0 +1,3 @@
+D:/programe/Code/Contacts management system/cmake-build-debug/CMakeFiles/Contacts_management_system.dir
+D:/programe/Code/Contacts management system/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programe/Code/Contacts management system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
